@@ -1,8 +1,0 @@
-{
-  "name": "Wireframe to ASCII Converter",
-  "description": "Convert uploaded UI wireframe images or drawings into clean, well-structured ASCII representations and layouts suitable for text-only LLMs.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
